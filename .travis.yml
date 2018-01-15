@@ -1,0 +1,5 @@
+language; csharp
+solution: Shithub.sln
+install:
+	- sudo apt-get install -y gtk-sharp2
+	- nudget restore Shithub.sln
