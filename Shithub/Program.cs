@@ -10,7 +10,7 @@ namespace Shithub
     {
         static void Main(string[] args)
         {
-            int y = 0;
+            int x = 0;
         }
     }
 }
